@@ -1,0 +1,13 @@
+DOCUMENTO FICTICIO PARA DEMOSTRACIÓN - SIN VALIDEZ TRIBUTARIA
+
+Proveedor: Proveedor Demostración SpA (ficticio)
+RUT emisor: 76.123.456-0
+Folio: DEMO-001
+Fecha de emisión: 2026-10-23
+Moneda: CLP
+
+Neto: $100.000
+IVA: $19.000
+Total: $119.000
+
+Este ejemplo no representa una empresa ni una transacción real.
